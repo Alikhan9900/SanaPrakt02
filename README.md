@@ -8,7 +8,7 @@
  - аутентифікація на GitHub за допомогою SSH;
  - вивантаження локального репозиторію на GitHub.
  Репозиторій на:
- - GitHub
- - GitLab
- - Bitbucket
+[x] GitHub
+[] GitLab
+[] Bitbucket
  Бекіров Аліхан
