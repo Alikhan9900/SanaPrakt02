@@ -11,3 +11,4 @@
  GitHub
  GitLab
  Bitbucket
+Бекіров Аліхан
